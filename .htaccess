@@ -1,0 +1,3 @@
+<Files ~ "/data/*">
+  Require all denied
+</Files>
