@@ -123,8 +123,7 @@
         </div>
         <footer class="demo-footer mdl-mini-footer">
           <div class="mdl-mini-footer--left-section">
-          Design based on Material Design Lite by Google.
-          | Domain name by <a href="http://freedns.afraid.org/ ">Free DNS</a>
+          Disain: Material Design Lite Google'ilt.
           </div>
         </footer>
       </main>
